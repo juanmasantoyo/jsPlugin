@@ -1,0 +1,17 @@
+﻿*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+p
+{
+    margin: 0px 0px 10px 0px;   
+}
+
+header, footer section, section#content
+{
+    width: 900px;
+    margin: 0px auto;
+    padding: 30px;
+}

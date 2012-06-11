@@ -1,0 +1,40 @@
+﻿*
+{
+    list-style-type: none;    
+}
+
+a
+{
+    color: #FFFFFF;
+}
+
+body
+{
+    background-color: #4CBBD3;
+}
+
+header, footer section#information
+{
+    background-color: #3B6EA5;    
+}
+
+header
+{
+    color: #FFFFFF;
+}
+
+footer
+{
+    color: #000000;
+}
+
+section#content
+{
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+footer section#license
+{
+    color: #000000;
+}
