@@ -11,4 +11,4 @@ c: The revision name. Starts as 1, increments with bug fixes.
 The directory base structure is:
 
 ./
-	./jsPlugin-a.b.c.js
+	./jquery.jsPlugin-a.b.c.js
